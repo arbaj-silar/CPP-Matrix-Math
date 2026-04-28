@@ -47,6 +47,6 @@ int main() {
                                 {40, 49, 56, 67, 80}};
 
     pair<int, int> ans = search(mat, 30);
-    cout<<"Pair of Idx: ("<<ans.first<<", "<<ans.second<<")"<<endl;
+    cout<<"Pair of Idx: ("<<ans.first<<", "<<ans.second<<")"<<endl;    
     return 0;
 }
